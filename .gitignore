@@ -1,2 +1,5 @@
 data/*
+./reference.py
+
 !data/.gitkeep
+!data/metadata
